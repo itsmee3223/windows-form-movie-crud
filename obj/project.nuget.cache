@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jN1tqRTJa/AAVvHhvs3sJ/+R327Nu7nNPdDibOfxsW3bTbofeN8M4fQtDYrZPEsPBDUA3nlRGX5IBtTj68w/1g==",
+  "success": true,
+  "projectFilePath": "D:\\Movie CRUD\\MovieCRUD\\MovieCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamva\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\tamva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\tamva\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
