@@ -4,7 +4,7 @@
 - Menggunakan C# untuk bahasa pemrogramannya
 - MySQL sebagai database
 - XAMPP sebagai MySQL server
-- Backup file dalam folder mysql untuk mencoba aplikasi
+- Backup file sql dalam folder mysql untuk mencoba aplikasi
 
 
 ## Main Menu
